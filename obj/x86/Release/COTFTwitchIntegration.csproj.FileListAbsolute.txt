@@ -1,0 +1,9 @@
+C:\Users\Hazard\Desktop\Apps\modapi_20180429_1.0.5.0\projects\TheForest\COTFTwitchIntegration\Mod\COTFTwitchIntegration.dll
+C:\Users\Hazard\Desktop\Apps\modapi_20180429_1.0.5.0\projects\TheForest\COTFTwitchIntegration\Mod\COTFTwitchIntegration.pdb
+C:\Users\Hazard\Desktop\Apps\modapi_20180429_1.0.5.0\projects\TheForest\COTFTwitchIntegration\Mod\ChampionsOfForest.dll
+C:\Users\Hazard\Desktop\Apps\modapi_20180429_1.0.5.0\projects\TheForest\COTFTwitchIntegration\Mod\ModAPITwitchIntegration.dll
+C:\Users\Hazard\Desktop\Apps\modapi_20180429_1.0.5.0\projects\TheForest\COTFTwitchIntegration\Mod\BuilderCore.dll
+C:\Users\Hazard\Desktop\Apps\modapi_20180429_1.0.5.0\projects\TheForest\COTFTwitchIntegration\obj\x86\Release\COTFTwitchIntegration.csprojAssemblyReference.cache
+C:\Users\Hazard\Desktop\Apps\modapi_20180429_1.0.5.0\projects\TheForest\COTFTwitchIntegration\obj\x86\Release\COTFTwitchIntegration.csproj.CopyComplete
+C:\Users\Hazard\Desktop\Apps\modapi_20180429_1.0.5.0\projects\TheForest\COTFTwitchIntegration\obj\x86\Release\COTFTwitchIntegration.dll
+C:\Users\Hazard\Desktop\Apps\modapi_20180429_1.0.5.0\projects\TheForest\COTFTwitchIntegration\obj\x86\Release\COTFTwitchIntegration.pdb
